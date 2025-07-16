@@ -3,7 +3,7 @@
 ## Overview
 A comprehensive movie recommendation system built for AUEB's AI/ML Data Factory course. This project implements both collaborative filtering and content-based filtering techniques to provide personalized movie recommendations using the MovieLens dataset and Wikipedia movie plots.
 
-You can view the notebook here [![Open in nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)]https://nbviewer.org/github/FotopoulosGeorge/movie-recommendations-aueb-df/blob/main/Movie%20Recommendation%20System.ipynb
+You can view the notebook here [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg?logo=Jupyter)](https://nbviewer.org/github/FotopoulosGeorge/movie-recommendations-aueb-df/blob/main/Movie%20Recommendation%20System.ipynb)
 
 ## Features
 
